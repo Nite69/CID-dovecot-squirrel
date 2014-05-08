@@ -1,4 +1,4 @@
-CryptoIDDemo
+CID-dovecot-squirrel
 ============
 
-Demo server software code for bitcoin cryptology 2D barcode account
+Cryptoid 2D barcode passwordless login to read your emails at squirrelmail
